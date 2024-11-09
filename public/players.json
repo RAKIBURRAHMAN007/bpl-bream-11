@@ -1,0 +1,115 @@
+
+    [
+      {
+        "playerId": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://i.ibb.co.com/RhmZ02H/lovely-virat-kohli-n8cnueqcien57ldz.webp",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": "$2,000,000"
+      },
+      {
+        "playerId": 2,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/Lr2CB4y/new-zealand-cricket-star-kane-williamson-3bptnocb06mr3lz4.webp",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm off-break",
+        "biddingPrice": "$1,800,000"
+      },
+      {
+        "playerId": 3,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "image": "https://i.ibb.co.com/xzzFZHF/Jasprit-Bumrah-6.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": "$1,500,000"
+      },
+      {
+        "playerId": 4,
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "https://i.ibb.co.com/fHWndF2/ben-stokes-england-team-captain-9lnz8wd6kgsusev8.webp",
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm medium-fast",
+        "biddingPrice": "$2,500,000"
+      },
+      {
+        "playerId": 5,
+        "name": "David Warner",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/b7PNg4y/david-warner-walking-cugzsevallam5863.webp",
+        "role": "Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm leg-break",
+        "biddingPrice": "$1,700,000"
+      },
+      {
+        "playerId": 6,
+        "name": "Pat Cummins",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/dL9t4jd/e5124b85a908cbb7a4b4b395eb493d3c.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": "$1,900,000"
+      },
+      {
+        "playerId": 7,
+        "name": "Rohit Sharma",
+        "country": "India",
+        "image": "https://i.ibb.co.com/bLgMJbw/rohit-sharma-national-india-team-cricket-y6j2m09jffprrehe.webp",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm off-break",
+        "biddingPrice": "$2,200,000"
+      },
+      {
+        "playerId": 8,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co.com/r4Gfs2v/babar-azam-batting-posture-z5f3get17wmxgeex.webp",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": "$1,800,000"
+      },
+      {
+        "playerId": 9,
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/rkNcmzp/glenn-maxwell-while-thinking-5ce45xsbduqgwecd.webp",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm off-break",
+        "biddingPrice": "$2,000,000"
+      },
+      {
+        "playerId": 10,
+        "name": "Trent Boult",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/r6hq174/new-zealand-cricket-bowler-trent-screaming-l5lk031lslki4mqs.webp",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": "$1,600,000"
+      },
+      {
+        "playerId": 11,
+        "name": "Jofra Archer",
+        "country": "England",
+        "image": "https://i.ibb.co.com/qFtVZrW/biugrop8-jofra-archer-afp-625x300-28-January-22.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": "$1,700,000"
+      }
+    ]
+  
+  
